@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Code/interviewquestions":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/Code/interviewquestions","hostpath":"C:/Users/Home/interviewquestions","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Home/interviewquestions","disabled":false,"__vagrantfile":true}}}
